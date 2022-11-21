@@ -3,6 +3,16 @@ body {
   font-family: "Lucida Console", "Courier New", monospace;
 }
 
+details {
+  padding-top: 16px;
+}
+
+summary {
+  font-size: 1rem;
+  font-weight: bold;
+  text-decoration: underline;
+}
+
 .content {
   float: right;
   width: 80%;
